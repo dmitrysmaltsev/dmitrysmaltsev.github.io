@@ -6,7 +6,7 @@ export const Tomorrow = () => {
   return (
     <Container>
       <h1>Tomorrow's page</h1>
-      <div>This is Tomorrow's page</div>
+      <div>Hello. This is Tomorrow's page</div>
       <Link to="/">
         <Button>Go to Today's page</Button>
       </Link>
